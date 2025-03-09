@@ -3,7 +3,7 @@
 
 - 🎓 I am currently studying **Applied Computer Science (2nd semester)** at **htw saar (University of Applied Sciences Saarland)**  
 - 🌱 Currently learning **Java**  
-- 🔭 Working on **[Codeoplis](https://github.com/lucabritten/hamurabi)**  
+- 🔭 Working on **[Codeopolis](https://github.com/lucabritten/hamurabi)**  
 - 💡 Interests: **Software Development, Algorithms, Clean Code**  
 
 ### 🚀 Tech Stack  
