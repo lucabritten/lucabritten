@@ -1,4 +1,6 @@
-# 👋 Hi, my name is Luca
+# 👋 Hi, I'm Luca
+
+I'm currently studying **Computer Science (3rd semester)** at **HTW Saar** 🎓
 
 ---
 
