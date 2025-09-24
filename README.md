@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luca
 
-I'm currently studying **Computer Science (3rd semester)** at **HTW Saar** 🎓
+I'm currently studying **applied Computer Science (3rd semester)** at **HTW Saar** 🎓
 
 ---
 
