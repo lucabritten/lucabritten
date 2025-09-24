@@ -1,5 +1,21 @@
-## Hi there 👋
+# 👋 Hi, my name is Luca
 
-[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabritten&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabritten&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## 🔧 Tech-Stack
+- **Sprachen:** Java | C  
+- **Frameworks:** Spring 
+- **Tools:** Git | Linux  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucabritten&show_icons=true&theme=cobalt)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabritten&layout=compact&theme=cobalt)
+
+---
+
+## 📫 Kontakt
+- 💼 [LinkedIn](https://linkedin.com/in/britten-luca)  
+- 📧 lucabritten17@icloud.com
