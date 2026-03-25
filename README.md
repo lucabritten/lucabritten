@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Luca
 
-I'm currently studying **applied Computer Science (3rd semester)** at **HTW Saar** 🎓
+I'm currently studying **applied Computer Science (4rd semester)** at **HTW Saar** 🎓
 
 ---
 
 ## 🔧 Tech-Stack
-- **Sprachen:** Java | C  
+- **Sprachen:** Java | C++ | Python | C
 - **Frameworks:** Spring 
 - **Tools:** Git | Linux  
 
