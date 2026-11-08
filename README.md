@@ -17,9 +17,9 @@ Mostly I am interested in industrial topics such as robotics. Furthermore I like
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucabritten&show_icons=true&theme=cobalt)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lucabritten&border_radius=7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabritten&layout=compact&theme=cobalt)
+![Top Languages](https://ghstats.dev/api/langs?username=lucabritten&layout=horizontal_list)
 
 ---
 
