@@ -1,13 +1,18 @@
 # 👋 Hi, I'm Luca
 
-I'm currently studying **applied Computer Science (4rd semester)** at **HTW Saar** 🎓
+I'm currently studying **applied Computer Science (5th semester)** at **HTW Saar** in Saarbrücken 🎓
 
 ---
 
+## 🤖 Interests
+
+Mostly I am interested in industrial topics such as robotics. Furthermore I like to build scalable backend-software.
+
+
 ## 🔧 Tech-Stack
-- **Sprachen:** Java | C++ | Python | C
-- **Frameworks:** Spring 
-- **Tools:** Git | Linux  
+- **Languages**: Python, Java, C, JavaScript
+- **Frameworks**: Flask, Spring Boot
+- **Tools:** Docker, Kubernetes, Git, Linux
 
 ---
 
